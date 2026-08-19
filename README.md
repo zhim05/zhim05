@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:himanshupd702@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
@@ -22,9 +22,9 @@
 
 ```developer
 struct Engineer {
-    name: "YOUR_NAME",
+    name: "Himanshu Prasad",
     role: "Computer Science Student & Developer",
-    focus: ["Scalable Backend Architecture", "API Integration", "Algorithms"],
+    focus: ["Full Stack", "AI/Ml", "Algorithms"],
     environment: "Linux / Terminal-First Workflow",
-    status: "Building software & solving problems"
+    status: "Learning new skills and building projects"
 }
