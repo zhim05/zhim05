@@ -1,6 +1,6 @@
 <!-- HEADER BANNER & TYPING EFFECT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=WELCOME%20TO%20MY%20TERMINAL&section=header&reversal=true&fontAlign=50&fontColor=606060&fontSize=60&textBg=false&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=WELCOME%20TO%20MY%20TERMINAL&section=header&reversal=true&fontAlign=50&fontColor=505050&fontSize=35&fontFamily=Press+Start+2P&textBg=false&animation=twinkling" width="100%" alt="Header Banner" />
 </div>
 
 ---
