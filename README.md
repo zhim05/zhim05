@@ -18,7 +18,6 @@
   </a>
 </p>
 
-<!-- PERSONAL INTRO -->
 <!-- HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:090d16,100:1f2937&text=WELCOME%20TO%20MY%20TERMINAL&section=header&fontAlign=50&fontColor=00FF66&fontSize=40&fontFamily=Silkscreen&animation=twinkling" width="100%" alt="Header Banner" />
