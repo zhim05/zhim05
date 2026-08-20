@@ -1,24 +1,25 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER & TYPING EFFECT -->
+<!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=180&color=0:090d16,100:1f2937&section=header" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=WELCOME%20TO%20MY%20TERMINAL&fontSize=45&color=0:8871e5,100:b678c4&stroke=b678c4" width="100%" alt="Terminal Banner" />
 </div>
 
-<br />
+---
 
-<!-- SOCIAL BADGES -->
+<!-- TERMINAL INTRO BLOCK -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38" />
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="38" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="38" />
   </a>
   <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="38" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="38" />
   </a>
 </p>
 
-<br />
+---
 
 <!-- TERMINAL SYSTEM INFO CARD (GREY BACKGROUND) -->
 <div align="center">
@@ -33,15 +34,15 @@
         <pre align="left" style="background-color: transparent; color: #E0E0E0; font-family: 'Fira Code', 'Courier New', monospace; font-size: 14px; margin: 0;">
 <span style="color: #61AFEF;">⚡ user@system</span>:<span style="color: #E5C07B;">~</span>$ cat system_info.json
 {
-  <span style="color: #E06C75;">"developer"</span>: <span style="color: #A6E3A1;">"Himanshu Prasad"</span>,
-  <span style="color: #E06C75;">"degree"</span>: <span style="color: #A6E3A1;">"B.S. Computer Science"</span>,
+  <span style="color: #E06C75;">"developer"</span>: <span style="color: #98C379;">"Himanshu Prasad"</span>,
+  <span style="color: #E06C75;">"degree"</span>: <span style="color: #98C379;">"B.S. Computer Science"</span>,
   <span style="color: #E06C75;">"focus_areas"</span>: [
     <span style="color: #98C379;">"Scalable Backend Systems"</span>,
     <span style="color: #98C379;">"API Engineering"</span>,
     <span style="color: #98C379;">"Algorithm Optimization"</span>
   ],
   <span style="color: #E06C75;">"environment"</span>: <span style="color: #98C379;">"Arch / Linux / Neovim / Terminal"</span>,
-  <span style="color: #E06C75;">"current_status"</span>: <span style="color: #98C379;">"Building performant web architectures & solving algorithmic chahttps://capsule-render.vercel.app/api?type=blur&height=180&color=0:090d16,100:1f2937&section=header$0llenges"</span>
+  <span style="color: #E06C75;">"current_status"</span>: <span style="color: #98C379;">"Building performant web architectures & solving algorithmic challenges"</span>
 }</pre>
       </td>
     </tr>
