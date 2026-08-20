@@ -1,4 +1,4 @@
-<!-- HEADER BANNER & TYPING EFFECT -->
+<!-- HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=WELCOME%20TO%20MY%20TERMINAL&fontSize=45&color=0:8871e5,100:b678c4&stroke=b678c4&animation=flicker" width="100%" alt="Terminal Banner" />
 </div>
@@ -21,15 +21,13 @@
 ---
 
 <!-- TERMINAL SYSTEM INFO CARD -->
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td bgcolor="#2B2B2B" style="border-radius: 8px; padding: 12px;">
-        🔴 🟡 🟢 &nbsp; <code>~ / system_info.json</code>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left" bgcolor="#2B2B2B" style="padding: 10px;">
+      🔴 🟡 🟢 &nbsp; <code>~ / system_info.json</code>
+    </td>
+  </tr>
+</table>
 
 ```json
 {
