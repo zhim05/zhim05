@@ -1,12 +1,6 @@
 <!-- HEADER BANNER & TYPING EFFECT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1e2e&height=200&section=header&text=Welcome%20to%20my%20Terminal&fontSize=42&fontColor=89b4fa&animation=fadeIn" width="100%" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vcenter=true&width=600&lines=Software+Engineer+%7C+Backend+%26+Full-Stack;Algorithmic+Problem+Solving+%26+Data+Structures;Linux+Systems+%26+Automations" alt="Typing SVG" />
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=89b4fa&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=WELCOME%20TO%20MY%20TERMINAL&section=header&reversal=true&fontAlign=50&fontColor=606060&fontSize=60&textBg=false&animation=twinkling" width="100%" alt="Header Banner" />
 </div>
 
 ---
