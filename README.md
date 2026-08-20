@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=WELCOME%20TO%20MY%20TERMINAL&fontSize=45&color=0:8871e5,100:b678c4&stroke=b678c4&animation=flicker" width="100%" alt="Terminal Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=WELCOME%20TO%20MY%20TERMINAL&fontSize=45&color=0:8871e5,100:b678c4&stroke=000000&animation=flicker" width="100%" alt="Terminal Banner" />
 </div>
 
 ---
